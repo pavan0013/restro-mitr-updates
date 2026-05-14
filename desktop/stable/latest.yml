@@ -1,8 +1,8 @@
-version: 1.0.9
+version: 1.0.10
 files:
-  - url: RESTRO-MITR-Setup-1.0.9-x64.exe
-    sha512: 40Ew4QTp0ESS5Tu1ftphuRy1Hqt4x7l+lS3YCjJG7fd9IYR6ivgPvYAmmQvXe6eCytj40vNTE1APt+W9q5N9og==
-    size: 78756245
-path: RESTRO-MITR-Setup-1.0.9-x64.exe
-sha512: 40Ew4QTp0ESS5Tu1ftphuRy1Hqt4x7l+lS3YCjJG7fd9IYR6ivgPvYAmmQvXe6eCytj40vNTE1APt+W9q5N9og==
-releaseDate: '2026-05-14T05:56:26.101Z'
+  - url: RESTRO-MITR-Setup-1.0.10-x64.exe
+    sha512: +UEyhxaieIogQDq099kOntsvxDCpXwhyLuFeejCGQQzHiXBMTowkS2MEHiUD/Ibb9/Pwm4a0MVM6OiEaiYqHtQ==
+    size: 78756057
+path: RESTRO-MITR-Setup-1.0.10-x64.exe
+sha512: +UEyhxaieIogQDq099kOntsvxDCpXwhyLuFeejCGQQzHiXBMTowkS2MEHiUD/Ibb9/Pwm4a0MVM6OiEaiYqHtQ==
+releaseDate: '2026-05-14T09:22:37.615Z'
